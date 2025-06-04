@@ -1,0 +1,107 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.question-box {
+	width:800px;
+	margin-top:5px;
+	float:left;
+}
+
+.question-name {
+	font-size:small;
+}
+
+.button a,
+.button a:visited {
+	width:90px;
+	height:20px;
+	margin-left:5px;
+	float:right;
+	text-align:center;
+	font-size:small;
+	line-height:20px;
+	border:solid 1px #006;
+	background-color:#FFF;
+	color:#006;
+	text-decoration:none;
+	display:block;
+}
+
+.button a:hover {
+	background-color:#999;
+}
+
+.time-set {
+	margin-right:30px;
+	float:left;
+}
+
+.time-set p {
+	margin:5px;
+	font-size:small;
+}
+
+.time {
+	margin:10px 5px;
+	width:40px;
+}
+
+.button2 a,
+.button2 a:visited {
+	height:20px;
+	margin:25px 0 25px 30px;
+	padding:0 15px;
+	text-align:center;
+	font-size:small;
+	line-height:20px;
+	border:solid 1px #006;
+	background-color:#FFF;
+	color:#006;
+	text-decoration:none;
+	float:left;
+	display:block;
+}
+
+.button2 a:hover {
+	background-color:#999;
+}
+
+.button2-no {
+	height:20px;
+	margin:25px 0 25px 30px;
+	padding:0 15px;
+	text-align:center;
+	font-size:small;
+	line-height:20px;
+	border:solid 1px #006;
+	background-color:#999;
+	color:#006;
+	float:left;
+}
+
+.now,
+.now2 {
+	height:20px;
+	line-height:20px;
+	font-size:small;
+	border:solid 1px #006;
+	background-color:#CA0009;
+	color:#FFF;
+	text-align:center;
+}
+
+.now {
+	width:90px;
+	float:right;
+}
+
+.now2 {
+	margin:25px 0 25px 30px;
+	padding:0 15px;
+	float:left;
+}
+
+.que-num {
+	font-size:small;
+	float:right;
+}

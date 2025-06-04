@@ -1,0 +1,240 @@
+@charset "UTF-8";
+/* CSS Document */
+
+div.kind {
+	width:105px;
+	padding-bottom:10px;
+	float:left;
+}
+
+.kind-in {
+	margin:10px 0 10px 7px;
+}
+
+.kind-in input {
+	margin:12px 2px;
+}
+
+div.who {
+	padding-bottom:10px;
+	float:right;
+}
+
+.who-in {
+	margin:5px 20px 0;
+	float:right;
+}
+
+div.general {
+	margin:0 22px 10px 10px;
+}
+
+.general-bottom {
+	color:#FFF;
+	font-size:medium;
+}
+
+div.faculty {
+	width:330px;
+	marigin:0 10px 10px 0;
+	float:left;
+}
+
+.faculty-in {
+	margin:5px 10px;
+}
+
+div.subject {
+	width:380px;
+	margin:0 10px 10px 10px;
+	float:right;
+}
+
+#subject-in {
+	margin:5px 10px;
+}
+
+#subject-in label {
+	margin-right:10px;
+}
+
+.p-check {
+	font-size:17px;
+	color:#CCC;
+	line-height:17px;
+}
+
+div.grade {
+	width:210px;
+	marigin:0 10px 10px 0;
+	float:left;
+}
+
+.grade-in {
+	margin:5px 10px;
+}
+
+div.name {
+	width:500px;
+	margin:0 10px 10px 10px;
+	float:right;
+}
+
+.name-in {
+	width:150px;
+	margin:5px 10px;
+}
+
+.hiragana {
+	font-size:x-small;
+	color:#999;
+}
+
+.comment-in {
+	width:900px;
+	height:45px;
+	margin:0;
+}
+
+.submit {
+	width:100px;
+	margin:20px auto 0 400px;
+	float:left;
+}
+
+.reset {
+	margin:20px 0 0;
+	float:right;
+}
+
+.up a,
+.down a,
+.up a:visited,
+.down a:visited {
+	color:#CCC;
+	font-size:120%;
+	text-decoration:none;
+	margin:0 2px;
+}
+
+.up a:hover,
+.down a:hover {
+	color:#FFF;
+}
+
+.dogi,
+.kind-q,
+.kind-a,
+.kind-o,
+.vote {
+	height:20px;
+	margin:0 0 5px;
+	text-align:center;
+	line-height:21px;
+	font-weight:bold;
+	float:left;
+}
+
+.dogi {
+	width:150px;
+	background-color:#FF0;
+	color:#000;
+	border:double 3px #000;
+}
+
+.kind-q {
+	width:80px;
+	background:#009;
+	color:#FFF;
+	border:solid 1px #FFF;
+}
+
+.kind-a{
+	width:80px;
+	background-color:#CD1608;
+	color:#FFF;
+	border:solid 1px #FFF;
+}
+
+.kind-o{
+	width:80px;
+	background-color:#B200B8;
+	color:#FFF;
+	border:solid 1px #FFF;
+}
+
+.vote {
+	width:150px;
+	background-color:#F93;
+	color:#000;
+	border:double 3px #000;
+}
+
+p.name {
+	height:20px;
+	margin:0 10px 5px;
+	line-height:23px;
+	font-size:90%;
+	float:left;
+}
+
+p.comment {
+	margin:5px 0;
+}
+
+.date {
+	font-size:70%;
+	line-height:25px;
+	float:left;
+}
+
+.num {
+	margin:5px 0;
+}
+
+.button-box {
+	width:150px;
+	float:right;
+	text-align:right;
+}
+
+.button a,
+.button a:visited,
+.button-show a,
+.button-show a:visited {
+	width:50px;
+	height:20px;
+	margin-left:5px;
+	float:left;
+	text-align:center;
+	font-size:small;
+	line-height:20px;
+	border:solid 1px #006;
+	text-decoration:none;
+	display:block;
+}
+
+.button a,
+.button a:visited {
+	background-color:#FFF;
+	color:#006;
+}
+
+.button-show a,
+.button-show a:visited {
+	background-color:#CA0009;
+	color:#FFF;
+}
+
+.button a:hover {
+	background-color:#999;
+}
+
+.button-show a:hover {
+	background-color:#9D0300;
+}
+
+.result {
+	margin-left:20px;
+	margin-bottom:5px;
+}

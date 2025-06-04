@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.motion {
+	padding-bottom:10px;
+}
+
+.motion-in {
+	margin:5px 10px 5px;
+}
+
+.motion-in label {
+	margin-right:10px;
+}
+
+.name {
+	padding-bottom:10px;
+}
+
+.name-in {
+	margin:5px 10px 5px;
+}
+
+.name-in input {
+	margin:10px 0;
+}
+
+.vote {
+	padding-bottom:10px;
+}
+
+.vote-in {
+	margin:5px 10px 5px;
+}
+
+.vote-in input {
+	margin-bottom:5px;
+}
+
+.num {
+	width:70px;
+	margin-right:25px;
+}
+
+.submit {
+	width:100px;
+	margin:10px auto 0;
+}

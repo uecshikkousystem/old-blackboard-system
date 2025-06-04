@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+	overflow-y:scroll;
+}
+
+body {
+	margin:0;
+	padding:0;
+	color:#CCC;
+	background-color:#E3E3E3;
+	font-family:"ＭＳ ゴシック", "MS Gothic", "Osaka－等幅", Osaka-mono, monospace;
+}
+
+h1,h2,h3,h4,h5,h6,h7,p,span,ul,il,ol,fieldset,legend {
+	margin:0;
+	padding:0;
+	font-weight:normal;
+	font-size:100%;
+}
+
+img {
+	margin:0;
+	padding:0;
+	border:none;
+}
+
+.none-txt {
+	display:none;
+}
+
+.clear {
+	clear:both;
+}
+
+.clear hr {
+	display:none;
+}

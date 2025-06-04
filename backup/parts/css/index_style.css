@@ -1,0 +1,174 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.login-window {
+	margin-top:150px;
+	padding:30px;
+	background-color:#006;
+	border:solid 1px #000;
+}
+
+.useradd-window {
+	margin-top:100px;
+	padding:30px;
+	background-color:#006;
+	border:solid 1px #000;
+}
+
+.dbregi-window {
+	margin-top:100px;
+	padding:30px;
+	background-color:#006;
+	border:solid 1px #000;
+}
+
+.title-index1,
+.title-index2 {
+	margin:0 10px 5px;
+	color:#CCC;
+}
+
+.title-index2 {
+	margin:20px 10px 5px;
+}
+
+.nav {
+	padding-left:60px;
+	list-style:square;
+	line-height:150%;
+}
+
+.nav a,
+.nav a:visited {
+	color:#FFF;
+	text-decoration:none;
+}
+
+.nav a:hover {
+	text-decoration:underline;
+}
+
+p#p-login {
+	width:800px;
+	margin:30px auto;
+	text-align:center;
+	color:#CCC;
+}
+
+p.p-login {
+	width:800px;
+	margin:30px auto;
+	text-align:center;
+	color:#CCC;
+}
+
+form.login-form {
+	width:400px;
+	margin:0 auto;
+	color:#CCC;
+	text-align:center;
+}
+
+form.login-form div.userpass input {
+	width:150px;
+	margin-bottom:5px;
+	font-size:medium;
+}
+
+div.submit {
+	width:200px;
+	margin:10px auto;
+	text-align:center;
+}
+
+div.submit input {
+	width:100px;
+}
+
+.add-form {
+	margin-top:30px;
+}
+
+.add-form div.name,
+.add-form div.user,
+.add-form div.passwd {
+	width:600px;
+	margin:20px auto;
+	color:#FFF;
+}
+
+.add-form div.passwd input {
+	margin-bottom:5px;
+}
+
+.add-form fieldset {
+	padding:10px;
+}
+
+div.useradd a,
+div.useradd a:visited {
+	height:20px;
+	padding:0 5px;
+	margin-left:5px;
+	float:right;
+	text-align:center;
+	font-size:small;
+	line-height:20px;
+	border:solid 1px #000;
+	background-color:#FFF;
+	color:#006;
+	text-decoration:none;
+	display:block;
+}
+
+div.useradd a:hover {
+	background-color:#999;
+}
+
+#usererr,
+#passwderr {
+	margin-left:5px;
+	font-size:small;
+	color:#CCC;
+}
+
+span.mes-ok {
+	font-weight:bold;
+	color:#FFF;
+}
+
+span.mes-ng {
+	font-weight:bold;
+	color:#F00;
+}
+
+#footer {
+	width:928px;
+	padding:10px;
+	position:fixed;
+	bottom:0;
+	background-color:#006;
+	border-top:solid 1px #000;
+	border-left:solid 1px #000;
+	border-right:solid 1px #000;
+	text-align:center;
+}
+
+#footer li {
+	margin:0 20px;
+	font-size:small;
+	list-style:none;
+	display:inline;
+}
+
+#footer li a,
+#footer li a:visited {
+	margin:0 20px;
+	color:#CCC;
+	text-decoration:none;
+}
+
+#footer li a:hover {
+	color:#CCC;
+	text-decoration:underline;
+}

@@ -1,0 +1,227 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.form {
+	width:500px;
+	margin:0 auto;
+	text-align:center;
+}
+
+.form-kojin {
+	margin-bottom:10px;
+}
+
+.form-kojin legend {
+	text-align:left;
+}
+
+.form-kojin input {
+	margin:10px 0 15px;
+}
+
+.form-kojin input.submit-kojin {
+	width:100px;
+	margin:0 0 10px;
+}
+
+.edit-form div.name,
+.edit-form div.member,
+.edit-form div.status {
+	margin:10px;
+}
+
+.edit-form div.submit {
+	width:800px;
+	margin:0 auto;
+	text-align:center;
+}
+
+.edit-form div.name input {
+	margin:10px;
+}
+
+.edit-form div.member input {
+	margin:10px 5px 10px 10px;
+}
+
+.edit-form div.status input {
+	margin:10px 5px 10px 10px;
+}
+
+.edit-form div.status input.parent-id {
+	width:70px;
+	margin:10px 0;
+}
+
+.edit-form div.submit input {
+	width:150px;
+}
+
+.id-in {
+	width:200px;
+	font-size:x-large;
+	letter-spacing:2px;
+}
+
+.form input.submit {
+	width:100px;
+	margin-top:20px;
+}
+
+.error-txt {
+	width:600px;
+	margin:0 auto 10px;
+	letter-spacing:2px;
+	text-align:center;
+}
+
+.error-txt-k {
+	width:450px;
+	margin:10px auto 10px;
+	letter-spacing:2px;
+	text-align:center;
+}
+
+.re-txt {
+	width:700px;
+	margin:0 auto 20px;
+	padding:2px 0;
+	letter-spacing:2px;
+	background-color:#FFF;
+	color:#000;
+	text-align:center;
+}
+
+.res-id,
+.res-name {
+	width:500px;
+	margin:0 auto;
+	font-size:large;
+	letter-spacing:2px;
+	line-height:150%;
+	text-align:center;
+}
+
+.res-idname {
+	width:700px;
+	margin-left:30px;
+	font-size:large;
+	letter-spacing:2px;
+	line-height:150%;
+	float:left;
+}
+
+.p-gaku {
+	width:800px;
+	margin:0 auto 10px;
+	text-align:center;
+}
+
+.edit-title {
+	font-size:large;
+}
+
+.button-box {
+	width:142px;
+	margin:20px auto 0;
+	text-align:center;
+}
+
+.button-box2 {
+	width:286px;
+	margin:20px auto 0;
+}
+
+.button a,
+.button a:visited {
+	width:80px;
+	height:20px;
+	margin:0 10px;
+	padding:0 20px;
+	float:left;
+	text-align:center;
+	font-size:small;
+	line-height:20px;
+	border:solid 1px #006;
+	background-color:#FFF;
+	color:#006;
+	text-decoration:none;
+	display:block;
+}
+
+.button2 a,
+.button2 a:visited {
+	width:80px;
+	height:20px;
+	margin-right:30px;
+	padding:0 20px;
+	float:right;
+	text-align:center;
+	font-size:small;
+	line-height:20px;
+	border:solid 1px #006;
+	background-color:#FFF;
+	color:#006;
+	text-decoration:none;
+	display:block;
+}
+
+.button3 a,
+.button3 a:visited {
+	height:20px;
+	padding:0 20px;
+	float:right;
+	text-align:center;
+	font-size:small;
+	line-height:20px;
+	border:solid 1px #006;
+	background-color:#FFF;
+	color:#006;
+	text-decoration:none;
+	display:block;
+}
+
+.button a:hover,
+.button2 a:hover,
+.button3 a:hover,
+.button a:focus,
+.button2 a:focus,
+.button3 a:focus {
+	background-color:#999;
+}
+
+.space-form {
+	height:20px;
+}
+
+.space-form hr {
+	display:none;
+}
+
+.mes {
+	width:950px;
+	margin:20px auto;
+	padding:10px 0;
+	background-color:#555;
+	border:solid 1px #000;
+	text-align:center;
+}
+
+.mes-ng {
+	width:950px;
+	margin:20px auto;
+	padding:10px 0;
+	background-color:#A40003;
+	border:solid 1px #000;
+	text-align:center;
+}
+
+a,
+a:visited {
+        color:#FFF;
+        text-decoration:none;
+}
+
+a:hover {
+        text-decoration:underline;
+}

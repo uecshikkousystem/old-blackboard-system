@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.num {
+	padding-bottom:10px;
+}
+
+.num-in {
+	margin:5px 10px 5px;
+}
+
+.num-in input {
+	margin-bottom:5px;	
+}
+.num-form {
+	width:70px;
+	margin-right:25px;
+}
+
+.submit {
+	width:100px;
+	margin:20px auto 0;
+}
