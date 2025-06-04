@@ -1,0 +1,161 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.faculty {
+	width:445px;
+	padding-bottom:10px;
+	float:left;
+}
+
+.faculty-in {
+	margin:5px 10px 5px;
+}
+
+.subject {
+	width:445px;
+	padding-bottom:10px;
+	float:right;
+}
+
+.subject-in {
+	margin:5px 10px 5px;
+}
+
+
+.grade {
+	width:445px;
+	padding-bottom:10px;
+	float:left;
+}
+
+.grade-in {
+	margin:5px 10px 5px;
+}
+
+.name {
+	width:445px;
+	padding-bottom:10px;
+	float:right;
+}
+
+.name-in {
+	width:100px;
+	margin:5px 10px 5px;
+}
+
+.which-in {
+	margin:5px 10px 5px;
+}
+
+.question-in {
+	width:850px;
+	margin:10px;
+}
+
+.submit {
+	width:100px;
+	margin:10px auto 30px 400px;
+	float:left;
+}
+
+.setup {
+	width:100px;
+	margin:0 auto;
+	text-align:center;
+}
+
+.reset {
+	margin:10px 0 30px;
+	float:right;
+}
+
+.question-box {
+	width:700px;
+	margin-top:5px;
+	float:left;
+}
+
+.question-name {
+	font-size:small;
+}
+
+.button a,
+.button a:visited {
+	width:90px;
+	height:20px;
+	margin-left:5px;
+	float:right;
+	text-align:center;
+	font-size:small;
+	line-height:20px;
+	border:solid 1px #006;
+	background-color:#FFF;
+	color:#006;
+	text-decoration:none;
+	display:block;
+}
+
+.button a:hover {
+	background-color:#999;
+}
+
+.button-init a,
+.button-init a:visited {
+	width:90px;
+	height:20px;
+	margin:20px auto 10px;
+	text-align:center;
+	font-size:small;
+	line-height:20px;
+	border:solid 1px #006;
+	background-color:#FFF;
+	color:#006;
+	text-decoration:none;
+	display:block;
+}
+
+.button-init a:hover {
+	background-color:#999;
+}
+
+.init-com {
+	width:910px;
+	margin-top:10px;
+	text-align:center;
+}
+
+.kind {
+	margin-bottom:20px;
+}
+
+.kind input {
+	margin:10px 5px;
+}
+
+.kind-in {
+	width:25px;
+}
+
+.num-sys,
+.add-sys,
+.tab-sys,
+.list-sys {
+	margin-bottom:20px;
+}
+
+.num-sys input,
+.add-sys input,
+.tab-sys input,
+.list-sys input {
+	margin:10px 5px;
+}
+
+.que-num {
+	margin-top:8px;
+	font-size:small;
+	float:right;
+}
+
+.num {
+	font-size:small;
+}

@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.motion {
+	padding-bottom:10px;
+}
+
+.motion-in {
+	margin:5px 10px 5px;
+}
+
+.motion-in label {
+	margin-right:15px;
+}
+
+.submit {
+	width:100px;
+	margin:10px auto 0;
+}

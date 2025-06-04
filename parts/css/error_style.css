@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.main-error {
+	min-height:38px;
+	padding:10px;
+	background-color:#060;
+	border:solid 1px #000;
+}
